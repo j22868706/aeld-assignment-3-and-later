@@ -1,5 +1,5 @@
-
-#!/bin/bash
+#!/bin/sh
+#!/bin/sh
 
 # Validate the number of arguments
 if [ "$#" -ne 2 ]; then
